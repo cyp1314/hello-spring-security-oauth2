@@ -1,5 +1,9 @@
 # hello-spring-security-oauth2
 
+> 获取token方式1
+ 传入账号密码，直接返回token
+ 
+
 > 启动流程
 > 1. 先启动server端
 > 2. 启动resource端
